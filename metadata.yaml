@@ -29,6 +29,8 @@ creator:
     - http://en.wikipedia.org/wiki/Charles_Maurice_de_Talleyrand-P%C3%A9rigord
     - http://fr.wikipedia.org/wiki/Charles-Maurice_de_Talleyrand-P%C3%A9rigord
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42292#M-moires-du-prince-de-Talleyrand-Volume-V--of-V-
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2013-03-10'
 gutenberg_type: Text
